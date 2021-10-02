@@ -24,3 +24,5 @@ int main()
     printf("reverse string >>>  " , lde4[8] , lde3[8] , lde2[8] , lde1[8] , lde[8]);
     return 0;
 }
+
+// not successfully
